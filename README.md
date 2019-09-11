@@ -1,7 +1,6 @@
 # Extended BoxPlots
 
-Extended box plots are a type of box plots that draws multiple boxes at different percentile pairs.
-There is no concept of whiskers or outliers. See page 31 of [Principles of Graph Construction](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf) by Frank E Harrell Jr for more info.
+Extended box plot are customizable box plots drawn for a set of percentile pairs (c.f. p. 31 in [Harrell Jr (2014)][1]).
 
 
 ## Usage
@@ -34,3 +33,6 @@ This project uses [semantic versioning](https://semver.org/).
 ## Copyright and licence
 
 Copyright 2018 D. Meyer. Licensed under [MIT](LICENSE.txt).
+
+
+[1]: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf
