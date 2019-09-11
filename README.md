@@ -1,9 +1,15 @@
-# Extended BoxPlots
+# Extended BoxPlots [![PyPI version](https://badge.fury.io/py/Extended-BoxPlots.svg)](https://badge.fury.io/py/Extended-BoxPlots)
 
 Extended box plot are customizable box plots drawn for a set of percentile pairs (c.f. p. 31 in [Harrell Jr (2014)][1]).
 
 
-## Usage
+## Installation
+
+```
+pip install Extended-BoxPlots
+```
+
+## Example use
 
 ```py
 import numpy as np
