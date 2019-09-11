@@ -23,7 +23,7 @@ plot_extended_boxplot(ax, [boxplot_stats])
 fig.savefig('extended_boxplot.svg', dpi=200)
 ```
 
-![Example extended box plot](images/extended_boxplot.svg)
+![Example extended box plot](https://raw.githubusercontent.com/dmey/extended-boxplots/master/images/extended_boxplot.png)
 
 ## Versioning
 
@@ -32,7 +32,7 @@ This project uses [semantic versioning](https://semver.org/).
 
 ## Copyright and licence
 
-Copyright 2018 D. Meyer. Licensed under [MIT](LICENSE.txt).
+Copyright 2018 D. Meyer. Licensed under [MIT](https://github.com/dmey/extended-boxplots/blob/master/LICENSE.txt).
 
 
 [1]: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatGraphCourse/graphscourse.pdf

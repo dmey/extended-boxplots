@@ -12,7 +12,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name='Extended-BoxPlots',
     packages=['extended_boxplots'],
-    version='0.1.0',
+    version='0.3.0',
     license='MIT',
     description='Generator of extended box plots',
     long_description=long_description,
